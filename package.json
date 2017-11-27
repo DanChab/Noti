@@ -1,0 +1,31 @@
+{
+  "name": "Noti",
+  "version": "1.0.0",
+  "description": "Tuiko is a bot for different type of notifications",
+  "main": "webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanChab/Noti.git"
+  },
+  "keywords": [
+    "notification",
+    "ai",
+    "bot",
+    "chat",
+    "Facebook",
+    "messenger"
+  ],
+  "author": "Daniel Chabala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanChab/Noti/issues"
+  },
+  "homepage": "https://github.com/DanChab/Noti#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
